@@ -1,0 +1,48 @@
+.nav_bar{
+    background-color: rgb(58, 58, 255);
+    padding: 15px;
+}
+.mnb_cars{
+    padding-right: 10px;
+}
+.home{
+    padding-right: 10px;
+}
+.cars{
+    padding-right: 10px;
+    color: rgb(208, 163, 163);
+}
+.contact_us{
+    color: rgb(208, 163, 163);
+}
+
+.column{
+    float: left;
+    width: 25%;
+}
+
+.column_1{
+    border-color: gray;
+    border-style: solid;
+    border-color: rgb(90, 83, 83);
+    border-radius: 5px;
+    margin: 10px;
+    border-width: 1.5px;;
+}
+
+.column_2{
+    float: right;
+    width: 50%;
+    border-color: gray;
+    border-style: solid;
+    border-color: rgb(90, 83, 83);
+    border-radius: 5px;
+    margin: 10px;
+    border-width: 1.5px;;
+}
+
+.row{
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-right: 10%;
+}
